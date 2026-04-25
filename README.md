@@ -7,7 +7,7 @@
 5. matplotlib (I couldn't find an emoji for it) for visualization
 
 ### Data Description 
-The data here has around 303 rows and 13 columns. We are prediciting if the patient has heart disease or not.Out of the 12 feature rows 8 are categorical and rest 4 are numerical.
+The data here has around 303 rows and 13 columns. We are predicting if the patient has heart disease or not.Out of the 12 feature rows 8 are categorical and rest 4 are numerical.
 
 ### Features and their explanations:
 1. chol means cholestrol levels of the person 
@@ -40,5 +40,5 @@ The data here has around 303 rows and 13 columns. We are prediciting if the pati
 1. Here I plot the most important features according to correlation along with the target
 
 ### Conclusion and future improvements 
-Here i have done the whole EDA along with the plots but i can add more visualizations and even read more graphs to learn more exciting things from the data. The correlation is only based on linear correlation and i can show cross correlation of the features and i can also add more visualizations.
+Here I have done the whole EDA along with the plots but i can add more visualizations and even read more graphs to learn more exciting things from the data. The correlation is only based on linear correlation and i can show cross correlation of the features and i can also add more visualizations.
 
