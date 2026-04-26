@@ -46,5 +46,5 @@ Here I have done the whole EDA along with the plots but i can add more visualiza
 Here i used sklearn libraries to first scale the features and then i used three different types of models of logistic regression,XGboost and random forest and compared their results as it is a health disease we need recall to be more as we want to catch as much of 1 values as possible. As logistic regression had high recall scores i chose that model. Then i did error analysis and the model had a hard time predicting exceptions from the data as that is understandable even doctors are sometimes perplexed when strange symptoms come forward.
 
 ## How can i improve the model more 
-I can do more error analysis and find out ways to improve the model, I could use cross validation and then get the best from random forest and xgboost and then compare to get better recall scores. 
+I can do more error analysis and find out ways to improve the model.
 
